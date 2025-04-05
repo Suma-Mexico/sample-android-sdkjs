@@ -26,8 +26,9 @@ El objetivo de este ejemplo es demostrar cómo ejecutar un componente web (HTML 
 
 ## 🛡️ Permisos
 
-El flujo solicita el permiso de cámara usando la nueva API (`ActivityResultContracts.RequestPermission`).  
-**Nota**: Si el usuario niega el permiso, se muestra un `Toast`, pero se pueden extender este comportamiento para volver a solicitar el permiso si lo desean.
+El flujo solicita el permiso de cámara usando la nueva API (`ActivityResultContracts.RequestPermission`).
+
+> **Nota**: Si el usuario niega el permiso, se muestra un `Toast`, pero se pueden extender este comportamiento para volver a solicitar el permiso si lo desean.
 
 ## 🧩 Personalización
 
